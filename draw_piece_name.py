@@ -272,7 +272,7 @@ elif (piece_type == '2'):
     elif piece_name == '+R' or piece_name == '+r':
         text1 = '龍'
     elif piece_name == '+B' or piece_name == '+b':
-        text1 = '龍'
+        text1 = '馬'
     elif piece_name == '+S' or piece_name == '+s':
         text1 = '全'
     elif piece_name == '+N' or piece_name == '+n':
