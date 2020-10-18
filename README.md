@@ -33,6 +33,7 @@ python3をデフォルトのpythonにすることができます。
 
 (2) スクリプト "create_shogi_pieces.sh" を実行し、画像を生成します。
 
+    $ cd create_shogi_pieces/
     $ ./create_shogi_pieces.sh
 
 (3) ./images/ に移動し、MyShogiで使用したい画像データをコピーします。
